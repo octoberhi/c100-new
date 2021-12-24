@@ -1,0 +1,22 @@
+body
+{
+background-color: aqua;
+}
+h1
+{
+color: blue;
+}
+textarea
+{
+width:50%;
+background-color: chartreuse;
+color: darkblue;
+font-size:25px;
+}
+button
+{
+margin-top:20px;
+width:20%;
+background-color: deepskyblue;
+font-size:35px;
+}
